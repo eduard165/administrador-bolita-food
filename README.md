@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/bolita-logo.png" alt="Logo de Bolita Food" width="180" />
+<img src="./public/bolita-logo.jpeg" alt="Logo de Bolita Food" width="180" />
 
 # Bolita Food
 
